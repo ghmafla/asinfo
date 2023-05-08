@@ -1,0 +1,6 @@
+com\gm\asinfo\services\controller\JsonController.class
+com\gm\asinfo\services\controller\JsonController$MenuSubItem.class
+com\gm\asinfo\services\controller\JsonController$MenuUrlItem.class
+com\gm\asinfo\services\controller\JsonController$MenuItem.class
+com\gm\asinfo\services\AsinfoServicesApplication.class
+com\gm\asinfo\services\SwaggerConfig.class
